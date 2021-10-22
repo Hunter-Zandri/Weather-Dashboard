@@ -24,6 +24,7 @@ I learned a lot about using apis and how to pull data from them......
 # Project pictures/website link
 https://hunter-zandri.github.io/homework006/
 
+![image](https://user-images.githubusercontent.com/86785668/138524998-debb70ab-68fb-47cf-8490-45bcfd573e96.png)
 
 
 
