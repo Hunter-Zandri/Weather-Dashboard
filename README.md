@@ -19,6 +19,11 @@ THEN I am again presented with current and future conditions for that city
 
 
 # What I learned
+I learned a lot about using apis and how to pull data from them......
+
+# Project pictures/website link
+https://hunter-zandri.github.io/homework006/
+
 
 
 
